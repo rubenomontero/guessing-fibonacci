@@ -23,6 +23,9 @@ def kaprekar_constant(num):
     """
     KAPREKAR_CONSTANT = 6174
     
+    
+    
+    
     # Validate input
     if num < 0 or num > 9999:
         return None, "Number must be between 0 and 9999"
